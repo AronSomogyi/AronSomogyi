@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AronSomogyi
 - 👀 I’m interested in Data Science, Data Visualization and Social Sciences
-- 🌱 I’m currently a MA Student, studying Big Data and Social Behavior analysis
+- 🌱 I’m currently a Data Scientist at OTP Bank
 - 📫 Reach me at aron.somogyi19@gmail.com
 
 <!---
